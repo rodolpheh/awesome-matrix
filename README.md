@@ -30,6 +30,7 @@ Discussions about this list can be found on [#awesome-github:lunai.re](https://m
 - [Tools using Matrix](#tools-using-matrix)
 - [VR & AR](#vr--ar)
 - [Bridges](#bridges)
+  - [Frameworks](#frameworks)
   - [IRC](#irc)
   - [Slack](#slack)
   - [Facebook](#facebook)
@@ -87,7 +88,7 @@ Legend:
 ### Web
 
 * [Riot](https://github.com/vector-im/riot-web/)
-* [Riot firefox extension](https://addons.mozilla.org/fr/firefox/addon/riot/)
+* [Riot firefox extension](https://addons.mozilla.org/firefox/addon/riot/)
 * [Fluffy Chat](https://gitlab.com/ChristianPauly/fluffychat)
 
 ### CLI
@@ -139,6 +140,10 @@ Legend:
 * [Matrix VR demo](https://github.com/matrix-org/matrix-vr-demo)
 
 ## Bridges
+
+### Frameworks
+
+* [mx-puppet-bridge](https://github.com/Sorunome/mx-puppet-bridge) : build bridges in TypeScript with `matrix-bot-sdk`. Includes a list of existing protocol implementations.
 
 ### IRC
 
