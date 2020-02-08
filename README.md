@@ -156,6 +156,7 @@ Legend:
 
 * [matrix-appservice-slack](https://github.com/matrix-org/matrix-appservice-slack)
 * [matrix-puppet-slack](https://github.com/matrix-hacks/matrix-puppet-slack)
+* [mx-puppet-slack](https://github.com/Sorunome/mx-puppet-slack)
 
 ### Facebook
 
