@@ -106,6 +106,7 @@ Legend:
 ### Federation testers
 
 * [Official federation tester](https://federationtester.matrix.org/)
+* [fed.mau.dev](https://fed.mau.dev/) : a lighter version, using the official federation tester backend
 
 ### Federation data
 
