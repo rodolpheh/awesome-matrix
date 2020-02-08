@@ -80,7 +80,7 @@ Legend:
 * [:penguin: :apple: :wc: Riot Desktop](https://github.com/vector-im/riot-web/)
 * [:penguin: Spectral](https://gitlab.com/spectral-im/spectral)
 * [:penguin: :apple: :wc: Quaternion](https://github.com/quotient-im/Quaternion)
-* [:penguin: nheko Reborn](https://github.com/Nheko-Reborn/nheko)
+* [:penguin: :apple: :wc: nheko Reborn](https://github.com/Nheko-Reborn/nheko)
 * [:penguin: Fractal](https://gitlab.gnome.org/GNOME/fractal)
 * [:penguin: Fluffy Chat](https://gitlab.com/ChristianPauly/fluffychat)
 * [:apple: Seaglass](https://github.com/neilalexander/seaglass)
@@ -88,7 +88,8 @@ Legend:
 ### Web
 
 * [Riot](https://github.com/vector-im/riot-web/)
-* [Riot firefox extension](https://addons.mozilla.org/firefox/addon/riot/)
+* [Riot Firefox extension](https://addons.mozilla.org/firefox/addon/riot/)
+* [Riot Chrome extension](https://chrome.google.com/webstore/detail/lgpdpggoahhnlmaiompkgghldllldcjh/)
 * [Fluffy Chat](https://gitlab.com/ChristianPauly/fluffychat)
 
 ### CLI
