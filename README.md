@@ -1,6 +1,6 @@
 # Awesome-matrix
 
-[![List of Awesome List Badge](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Awesome-matrix room](https://img.shields.io/badge/matrix-%23awesome--matrix%3Alunai.re-informational)](https://matrix.to/#/#awesome-github:lunai.re)
+[![List of Awesome List Badge](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Awesome-matrix room](https://img.shields.io/badge/matrix-%23awesome--matrix%3Alunai.re-informational)](https://matrix.to/#/#awesome-matrix:lunai.re)
 
 ![Logo](media/awesome-matrix.png)
 
@@ -8,7 +8,7 @@ A curated list of awesome stuff around Matrix.
 
 **Did you notice a deprecated resource, or did you start a project around Matrix and want to see it featured on this page ? Did we forget anything you deem interesting ? Please open an issue so we can track and make the proper changes.**
 
-Discussions about this list can be found on [#awesome-github:lunai.re](https://matrix.to/#/#awesome-github:lunai.re)
+Discussions about this list can be found on [#awesome-github:lunai.re](https://matrix.to/#/#awesome-matrix:lunai.re)
 
 **:construction: This list is under construction, please be patient and wait for this message to disappear before submitting changes**
 
