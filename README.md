@@ -78,12 +78,27 @@ Legend:
 
 * [:penguin: :apple: :wc: Riot Desktop](https://github.com/vector-im/riot-web/)
 * [:penguin: Spectral](https://gitlab.com/spectral-im/spectral)
+* [:penguin: :apple: :wc: Quaternion](https://github.com/quotient-im/Quaternion)
+* [:penguin: nheko Reborn](https://github.com/Nheko-Reborn/nheko)
+* [:penguin: Fractal](https://gitlab.gnome.org/GNOME/fractal)
+* [:penguin: Fluffy Chat](https://gitlab.com/ChristianPauly/fluffychat)
+* [:apple: Seaglass](https://github.com/neilalexander/seaglass)
 
 ### Web
 
+* [Riot](https://github.com/vector-im/riot-web/)
+* [Riot firefox extension](https://addons.mozilla.org/fr/firefox/addon/riot/)
+* [Fluffy Chat](https://gitlab.com/ChristianPauly/fluffychat)
+
 ### CLI
 
+* [:penguin: Weechat-matrix](https://github.com/poljar/weechat-matrix)
+* [:penguin: gomuks](https://github.com/tulir/gomuks)
+* [:penguin: MatrixCLI](https://github.com/saadnpq/matrixcli)
+
 ### Nintendo 3DS
+
+* [Miitrix](https://github.com/Sorunome/miitrix)
 
 ## Federation
 
