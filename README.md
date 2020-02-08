@@ -125,7 +125,8 @@ Legend:
 
 ## Server administration
 
-* [Synapse-admin](https://github.com/Awesome-Technologies/synapse-admin)
+* [Synapse-admin](https://github.com/Awesome-Technologies/synapse-admin) : administration UI
+* [matrix-tag-manager](https://github.com/turt2live/matrix-tag-manager) : manage room tagging
 
 ## VoIP
 
