@@ -14,47 +14,55 @@ Discussions about this list can be found on [#awesome-github:lunai.re](https://m
 
 ---
 
+- [Servers](#servers)
 - [Clients](#clients)
-  - [Mobile](#mobile)
-  - [Desktop](#desktop)
-  - [Web](#web)
-  - [CLI](#cli)
-  - [Nintendo 3DS](#nintendo-3ds)
+	- [Mobile](#mobile)
+	- [Desktop](#desktop)
+	- [Web](#web)
+	- [CLI](#cli)
+	- [Nintendo 3DS](#nintendo-3ds)
 - [Federation](#federation)
-  - [Federation testers](#federation-testers)
-  - [Federation data](#federation-data)
+	- [Federation testers](#federation-testers)
+	- [Federation data](#federation-data)
 - [Matrix.org data](#matrixorg-data)
 - [E2EE stuff](#e2ee-stuff)
 - [Server administration](#server-administration)
+- [Registration systems](#registration-systems)
+- [Media repositories](#media-repositories)
 - [VoIP](#voip)
 - [Tools using Matrix](#tools-using-matrix)
 - [VR & AR](#vr--ar)
 - [Bridges](#bridges)
-  - [Frameworks](#frameworks)
-  - [IRC](#irc)
-  - [Slack](#slack)
-  - [Facebook](#facebook)
-  - [Whatsapp](#whatsapp)
-  - [Discord](#discord)
-  - [Telegram](#telegram)
-  - [RSS](#rss)
-  - [Email](#email)
-  - [SMS](#sms)
-  - [Gitter](#gitter)
-  - [RocketChat](#rocketchat)
-  - [iMessage](#imessage)
-  - [Google Hangouts](#google-hangouts)
-  - [Mastodon](#mastodon)
-  - [Twitter](#twitter)
-  - [libpurple](#libpurple)
-  - [GroupMe](#groupme)
-  - [Skype](#skype)
-  - [WeChat](#wechat)
-  - [KeyBase](#keybase)
+	- [Frameworks](#frameworks)
+	- [IRC](#irc)
+	- [Slack](#slack)
+	- [Facebook](#facebook)
+	- [Whatsapp](#whatsapp)
+	- [Discord](#discord)
+	- [Telegram](#telegram)
+	- [RSS](#rss)
+	- [Email](#email)
+	- [SMS](#sms)
+	- [Gitter](#gitter)
+	- [RocketChat](#rocketchat)
+	- [iMessage](#imessage)
+	- [Google Hangouts](#google-hangouts)
+	- [Mastodon](#mastodon)
+	- [Twitter](#twitter)
+	- [libpurple](#libpurple)
+	- [GroupMe](#groupme)
+	- [Skype](#skype)
+	- [WeChat](#wechat)
+	- [KeyBase](#keybase)
 - [Bots](#bots)
 - [SDKs](#sdks)
 
 ---
+
+## Servers
+
+* [Synapse](https://github.com/matrix-org/synapse) : Matrix reference homeserver
+* [Dendrite](https://github.com/matrix-org/dendrite) : next-generation homeserver
 
 ## Clients
 
@@ -128,6 +136,14 @@ Legend:
 
 * [Synapse-admin](https://github.com/Awesome-Technologies/synapse-admin) : administration UI
 * [matrix-tag-manager](https://github.com/turt2live/matrix-tag-manager) : manage room tagging
+
+## Registration systems
+
+* [matrix-registration](https://github.com/zeratax/matrix-registration) : token-based registration
+
+## Media repositories
+
+* [matrix-media-repo](https://github.com/turt2live/matrix-media-repo) : multi-domain media repository for Matrix with deduplication features suitable for single-domain
 
 ## VoIP
 
