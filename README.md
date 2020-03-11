@@ -155,6 +155,7 @@ Legend:
 
 * [Matrix-notepad](https://github.com/KB1RD/matrix-notepad) collaborative text editing through Matrix
 * [Matrix-presents](https://github.com/Half-Shot/matrix-presents) slides presentation and synchronization through Matrix
+* [Tangent](https://gitlab.com/taigaka/tangent) : include a chat on your website using Matrix
 
 ## VR & AR
 
