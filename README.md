@@ -56,6 +56,8 @@ Discussions about this list can be found on [#awesome-github:lunai.re](https://m
 	- [KeyBase](#keybase)
 - [Bots](#bots)
 - [SDKs](#sdks)
+- [Other softwares plugins](#other-softwares-plugins)
+	- [Icinga2](#icinga2)
 
 ---
 
@@ -255,3 +257,9 @@ Legend:
 ## Bots
 
 ## SDKs
+
+## Other softwares plugins
+
+### Icinga2
+
+* [icinga2-matrix-notification](https://github.com/linuxmail/icinga2-matrix_notification) : send your icinga2 alerts in a Matrix room
