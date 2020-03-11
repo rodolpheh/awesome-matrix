@@ -28,6 +28,7 @@ Discussions about this list can be found on [#awesome-github:lunai.re](https://m
 - [E2EE stuff](#e2ee-stuff)
 - [Server administration](#server-administration)
 - [Registration systems](#registration-systems)
+- [Room administration](#room-administration)
 - [Media repositories](#media-repositories)
 - [VoIP](#voip)
 - [Tools using Matrix](#tools-using-matrix)
@@ -142,6 +143,10 @@ Legend:
 ## Registration systems
 
 * [matrix-registration](https://github.com/zeratax/matrix-registration) : token-based registration
+
+## Room administration
+
+* [Mjolnir](https://github.com/matrix-org/mjolnir) : room moderation tool
 
 ## Media repositories
 
