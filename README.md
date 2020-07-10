@@ -31,6 +31,7 @@ Discussions about this list can be found on [#awesome-github:lunai.re](https://m
 - [Room administration](#room-administration)
 - [Media repositories](#media-repositories)
 - [VoIP](#voip)
+- [IoT](#iot)
 - [Tools using Matrix](#tools-using-matrix)
 - [VR & AR](#vr--ar)
 - [Bridges](#bridges)
@@ -155,6 +156,10 @@ Legend:
 ## VoIP
 
 * [VoIP tester](https://github.com/matrix-org/voip-tester)
+
+## IoT
+
+* [Mozilla IoT Matrix Adapter](https://gitlab.com/webthings/matrix-adapter)
 
 ## Tools using Matrix
 
