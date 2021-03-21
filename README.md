@@ -163,6 +163,7 @@ Legend:
 
 ## Tools using Matrix
 
+* [Cactus Comments](https://cactus.chat/) : federated comment system for the open web built on Matrix.
 * [Matrix-notepad](https://github.com/KB1RD/matrix-notepad) collaborative text editing through Matrix
 * [Matrix-presents](https://github.com/Half-Shot/matrix-presents) slides presentation and synchronization through Matrix
 * [Tangent](https://gitlab.com/taigaka/tangent) : include a chat on your website using Matrix
