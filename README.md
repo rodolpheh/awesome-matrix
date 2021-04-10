@@ -268,6 +268,8 @@ Legend:
 
 ## Bots
 
+* [wayback](https://github.com/wabarc/wayback) : Wayback webpages through Matrix, and publish the results to Room
+
 ## SDKs
 
 ## Other softwares plugins
